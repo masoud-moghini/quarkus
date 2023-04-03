@@ -1,0 +1,5 @@
+org\acme\AccountStatus.class
+org\acme\Account.class
+org\acme\AccountResource$ErrorMapper.class
+org\acme\AccountResource.class
+org\acme\GreetingResource.class

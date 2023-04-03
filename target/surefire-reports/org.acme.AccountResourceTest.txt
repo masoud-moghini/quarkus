@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.acme.AccountResourceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.747 s - in org.acme.AccountResourceTest
